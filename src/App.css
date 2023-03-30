@@ -1,0 +1,11 @@
+.Contenedor{
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.Cartas{
+
+  align-self: center;
+}
